@@ -2976,10 +2976,7 @@ hr,
 /* Video*/
 
 .video{
-	position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
+width: 100%
 }
 
 a.animated-link:hover .text-line,
